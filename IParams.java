@@ -9,6 +9,6 @@ public int getBig();
 public int getMedium();
 // 获取小班名额
 public int getSmall();
-// 获取入学序列，例如 [1 2 2 3] 表示依次报名入学一名大班、中班、中班、小班学生
+// 获取入学序列，例如 [1 2 2 3] 表示依次报名入学一名大班、中班、中班、小班学生乐乐乐乐乐乐乐乐
 public ArrayList<Integer> getPlanSignUp();
         }
